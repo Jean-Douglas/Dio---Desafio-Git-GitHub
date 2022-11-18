@@ -1,0 +1,6 @@
+git status (verificar se alterações foram reconhecidas).
+git add .  (adiciona alterações como pastas e arquivos).
+git status (verifica se as alterações estão prontas para commit).
+git commit -m "Descrever pasta/arquivo, ex:inclusão de anotações".
+git status (verifica disponibilidade para "push").
+gi push origin main (realizar push).
