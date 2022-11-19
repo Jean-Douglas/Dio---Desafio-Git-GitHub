@@ -12,4 +12,5 @@
 
 #### Links Úteis:
 [Download Git](https://git-scm.com/)  
-[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)  
+[Visual Studio Code](https://code.visualstudio.com/download)
